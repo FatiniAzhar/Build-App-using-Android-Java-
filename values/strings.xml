@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Unimates</string>
+    <string name="login_now">Login Now</string>
+    <string name="logo">Image Logo</string>
+    <string name="don_t_remember_password">Forgot Password?</string>
+    <string name="reset">Reset Password</string>
+    <string name="sign_up_title">Sign Up to Join UniMates!</string>
+    <string name="or">or</string>
+<string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="search">Search</string>
+    <string name="home">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="map">Maps</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_pass">Reset Password</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+    </resources>
