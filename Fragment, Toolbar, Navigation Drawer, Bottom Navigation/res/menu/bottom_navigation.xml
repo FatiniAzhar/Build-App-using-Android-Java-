@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    //This xml file is use to create a navigation bar
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/serach"
+        android:title="Search"/>
+
+
+    <item
+
+        android:id="@+id/nav_map"
+        android:icon="@drawable/maps"
+        android:title="Maps"/>
+
+    <item
+
+        android:id="@+id/nav_love"
+        android:icon="@drawable/love"
+        android:title="Favorite"/>
+
+
+
+</menu>
