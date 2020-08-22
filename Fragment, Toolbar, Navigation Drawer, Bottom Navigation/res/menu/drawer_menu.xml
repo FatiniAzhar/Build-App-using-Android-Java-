@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn= "navigation_view">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+
+
+    <item android:id="@+id/nav_home_drawer"
+        android:icon="@drawable/search"
+        android:title="Search"/>
+
+    <item android:id="@+id/nav_ads"
+        android:icon="@drawable/ads3"
+        android:title="Post An Ads"/>
+
+    <item android:id="@+id/nav_favorite_drawer"
+        android:icon="@drawable/love"
+        android:title="Favorite"/>
+
+    </group>
+
+
+    <group
+        android:id="@+id/menu_middle"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/about_us"
+            android:icon="@drawable/aboutus"
+            android:title="About Us"/>
+
+
+        <item android:id="@+id/setting"
+        android:icon="@drawable/ic_settings_applications_black_24dp"
+        android:title="Setting"/>
+
+
+        <item android:id="@+id/help"
+            android:icon="@drawable/help"
+            android:title="Help &amp; Feedback"/>
+    </group>
+
+    <group android:id="@+id/menu_bottom">
+
+
+    <item android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="Log Out"/>
+
+    </group>
+</menu>
